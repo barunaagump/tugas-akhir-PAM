@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163143208511",
+    "firebase_url": "https://tugasakhirpam-c3036-default-rtdb.firebaseio.com",
+    "project_id": "tugasakhirpam-c3036",
+    "storage_bucket": "tugasakhirpam-c3036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163143208511:android:8585d037e67600f955328a",
+        "android_client_info": {
+          "package_name": "com.example.tugasakhirpam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163143208511-1pf5kp37rpejhqc91cp05v91lq3cc3n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK0RSJKLZNiA9O_ocNzc75M4l45Wp1pzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163143208511-1pf5kp37rpejhqc91cp05v91lq3cc3n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
